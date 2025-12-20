@@ -402,6 +402,12 @@ Contributions are what make the open-source community amazing! Any contributions
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/veduruvada-satya-sayendranadh-320296260/)
 - 📧 Email: sayendranadh2005@gmail.com
 
+🤝 Contributors
+
+Special thanks to:
+
+- I.Vishnu Varma - Project Contributor
+
 ### Connect & Support
 
 If you find this project helpful:
