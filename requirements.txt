@@ -1,5 +1,4 @@
 # --- Core runtime ---
-python==3.10.8
 streamlit==1.52.2
 plotly==6.3.0
 
