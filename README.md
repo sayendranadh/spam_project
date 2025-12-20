@@ -399,15 +399,15 @@ Contributions are what make the open-source community amazing! Any contributions
 - 🎓 Final Year B.Tech Student
 - 💼 Aspiring Data Scientist / Machine Learning Engineer
 - 🌐 GitHub: [@sayendranadh](https://github.com/sayendranadh)
-- 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/sayendranadh) *(Add your LinkedIn)*
-- 📧 Email: your.email@example.com *(Add your email)*
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/veduruvada-satya-sayendranadh-320296260/)
+- 📧 Email: sayendranadh2005@gmail.com
 
 ### Connect & Support
 
 If you find this project helpful:
 - ⭐ Star this repository
 - 🐦 Share it with others
-- 🤝 Connect on [LinkedIn](https://linkedin.com/in/sayendranadh)
+- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/veduruvada-satya-sayendranadh-320296260/)
 
 ---
 
