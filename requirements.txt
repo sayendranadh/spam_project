@@ -1,0 +1,15 @@
+streamlit
+plotly
+numpy
+pandas
+scikit-learn
+nltk
+seaborn
+matplotlib
+spacy
+textblob
+imbalanced-learn
+wordcloud
+urlextract
+email-validator
+dnspython
