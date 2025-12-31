@@ -407,7 +407,7 @@ Contributions are what make the open-source community amazing! Any contributions
 Special thanks to:
 
 - I.Vishnu Varma - Project Contributor
-- P.Sai Charan - Project Contributer
+- P.Sai Charan - Project Contributor
 
 ### Connect & Support
 
